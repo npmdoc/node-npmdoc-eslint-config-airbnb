@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/eslint-config-airbnb.png?downloads=true)](https://www.npmjs.com/package/eslint-config-airbnb)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-eslint_config_airbnb_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-eslint-config-airbnb_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build..beta..travis-ci.org/apidoc.html)
 
 ![package-listing](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screen-capture.npmPackageListing.svg)
 
