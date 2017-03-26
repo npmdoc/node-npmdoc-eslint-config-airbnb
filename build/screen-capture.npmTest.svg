@@ -7,7 +7,7 @@
 <tspan x="10" y="74">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
 <tspan x="10" y="90"></tspan>
 <tspan x="10" y="106"></tspan>
-<tspan x="10" y="122">[MODE_BUILD=npmTest] - 2017-03-26T10:14:20Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="122">[MODE_BUILD=npmTest] - 2017-03-26T11:06:15Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
 <tspan x="10" y="138">eslint-config-airbnb</tspan>
 <tspan x="10" y="154"></tspan>
 <tspan x="10" y="170"></tspan>
@@ -15,60 +15,60 @@
 <tspan x="10" y="202">-eslint-config-airbnb/test.js</tspan>
 <tspan x="10" y="218">merging file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/build/test-report.\</tspan>
 <tspan x="10" y="234">json to test-report</tspan>
-<tspan x="10" y="250">&gt; server listening on http-port 49586</tspan>
+<tspan x="10" y="250">&gt; server listening on http-port 63053</tspan>
 <tspan x="10" y="266">created apidoc file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/build/apido\</tspan>
 <tspan x="10" y="282">c.html</tspan>
 <tspan x="10" y="298"></tspan>
 <tspan x="10" y="314"></tspan>
 <tspan x="10" y="330">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-eslint-config-ai\</tspan>
-<tspan x="10" y="346">rbnb/tmp/electron.15b0a1c07cc0.035fc1c351b8.html</tspan>
+<tspan x="10" y="346">rbnb/tmp/electron.15b0a4b91a90.2a71603baded9.html</tspan>
 <tspan x="10" y="362"></tspan>
 <tspan x="10" y="378">[node test-case 1 of 6 passed] - testCase_buildLib_default</tspan>
 <tspan x="10" y="394">[node test-case 2 of 6 passed] - testCase_buildReadme_default</tspan>
 <tspan x="10" y="410">[node test-case 3 of 6 passed] - testCase_buildTest_default</tspan>
 <tspan x="10" y="426"></tspan>
 <tspan x="10" y="442">browserTest - created electron entry-page /home/travis/build/npmdoc/node-npmdoc-eslint-config-ai\</tspan>
-<tspan x="10" y="458">rbnb/tmp/electron.15b0a1c07f80.a4470875c660d.html</tspan>
+<tspan x="10" y="458">rbnb/tmp/electron.15b0a4b91f20.b697353ea24e.html</tspan>
 <tspan x="10" y="474"></tspan>
-<tspan x="10" y="490">(node:4975) DeprecationWarning: node --debug is deprecated. Please use node --inspect instead.</tspan>
+<tspan x="10" y="490">(node:4906) DeprecationWarning: node --debug is deprecated. Please use node --inspect instead.</tspan>
 <tspan x="10" y="506">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="522">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="538">&gt; server listening on http-port 62503</tspan>
+<tspan x="10" y="538">&gt; server listening on http-port 32989</tspan>
 <tspan x="10" y="554">merging file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/build/test-report.\</tspan>
 <tspan x="10" y="570">json to test-report</tspan>
-<tspan x="10" y="586">merging file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/build/test-report.\</tspan>
-<tspan x="10" y="602">json to test-report</tspan>
-<tspan x="10" y="618">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="634">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="650">[5010:0326/101421:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="666">[5010:0326/101421:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="682">[5006:0326/101421:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="698">[5006:0326/101421:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
-<tspan x="10" y="714">[5049:0326/101421:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="586">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="602">merging file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/build/test-report.\</tspan>
+<tspan x="10" y="618">json to test-report</tspan>
+<tspan x="10" y="634">[4939:0326/110617:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="650">[4939:0326/110617:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="666">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="682">[4936:0326/110617:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="698">[4936:0326/110617:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="714">[4962:0326/110617:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
 <tspan x="10" y="730">in process gpu-process. </tspan>
-<tspan x="10" y="746">[5035:0326/101421:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="762">in process gpu-process. </tspan>
-<tspan x="10" y="778">[5010:0326/101421:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
-<tspan x="10" y="794">[5006:0326/101421:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="746">[4939:0326/110617:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="762">[4990:0326/110617:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="778">in process gpu-process. </tspan>
+<tspan x="10" y="794">[4936:0326/110617:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
 <tspan x="10" y="810"></tspan>
-<tspan x="10" y="826">browserTest - opened url file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/b\</tspan>
-<tspan x="10" y="842">uild/apidoc.html</tspan>
+<tspan x="10" y="826">browserTest - opened url http://127.0.0.1:63053?modeTest=1</tspan>
+<tspan x="10" y="842"></tspan>
 <tspan x="10" y="858"></tspan>
-<tspan x="10" y="874"></tspan>
-<tspan x="10" y="890">browserTest - opened url http://127.0.0.1:49586?modeTest=1</tspan>
+<tspan x="10" y="874">browserTest - opened url file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/b\</tspan>
+<tspan x="10" y="890">uild/apidoc.html</tspan>
 <tspan x="10" y="906"></tspan>
-<tspan x="10" y="922">[5010:0326/101423:INFO:CONSOLE(203)] "----------|-----------|-----------|-----------|-----------\</tspan>
+<tspan x="10" y="922">[4939:0326/110619:INFO:CONSOLE(203)] "----------|-----------|-----------|-----------|-----------\</tspan>
 <tspan x="10" y="938">|</tspan>
 <tspan x="10" y="954">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
 <tspan x="10" y="970">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="986">----------|-----------|-----------|-----------|-----------|</tspan>
 <tspan x="10" y="1002">All files |       100 |       100 |       100 |       100 |</tspan>
 <tspan x="10" y="1018">----------|-----------|-----------|-----------|-----------|</tspan>
-<tspan x="10" y="1034">", source: file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/electron.15b0a1\</tspan>
-<tspan x="10" y="1050">c07f80.a4470875c660d.html (203)</tspan>
-<tspan x="10" y="1066">[5010:0326/101423:INFO:CONSOLE(203)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
+<tspan x="10" y="1034">", source: file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/electron.15b0a4\</tspan>
+<tspan x="10" y="1050">b91f20.b697353ea24e.html (203)</tspan>
+<tspan x="10" y="1066">[4939:0326/110619:INFO:CONSOLE(203)] "created coverage file:///tmp/build/coverage.html/index.htm\</tspan>
 <tspan x="10" y="1082">l", source: file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/electron.15b0a\</tspan>
-<tspan x="10" y="1098">1c07f80.a4470875c660d.html (203)</tspan>
+<tspan x="10" y="1098">4b91f20.b697353ea24e.html (203)</tspan>
 <tspan x="10" y="1114">[node test-case 4 of 6 passed] - testCase_buildApp_default</tspan>
 <tspan x="10" y="1130"></tspan>
 <tspan x="10" y="1146">browserTest - created screen-capture file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-\</tspan>
@@ -85,7 +85,7 @@
 <tspan x="10" y="1322">airbnb/tmp/build/screen-capture.npmTest.browser..png</tspan>
 <tspan x="10" y="1338"></tspan>
 <tspan x="10" y="1354"></tspan>
-<tspan x="10" y="1370">browserTest - exit-code 0 - http://127.0.0.1:49586?modeTest=1</tspan>
+<tspan x="10" y="1370">browserTest - exit-code 0 - http://127.0.0.1:63053?modeTest=1</tspan>
 <tspan x="10" y="1386"></tspan>
 <tspan x="10" y="1402"></tspan>
 <tspan x="10" y="1418">browserTest - merged coverage from /home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tm\</tspan>
@@ -113,8 +113,8 @@
 <tspan x="10" y="1770">json to test-report</tspan>
 <tspan x="10" y="1786"></tspan>
 <tspan x="10" y="1802">-------------------------------------------------------</tspan>
-<tspan x="10" y="1818">| test-report - buildNpmdoc - node - linux v7.7.4 - 2017-03-26T10:13:52.375Z</tspan>
-<tspan x="10" y="1834">|   33885 ms            0 failed        6 passed      |</tspan>
+<tspan x="10" y="1818">| test-report - buildNpmdoc - node - linux v7.7.4 - 2017-03-26T11:06:06.185Z</tspan>
+<tspan x="10" y="1834">|   15711 ms            0 failed        6 passed      |</tspan>
 <tspan x="10" y="1850">-------------------------------------------------------</tspan>
 <tspan x="10" y="1866"></tspan>
 <tspan x="10" y="1882">created test-report file:///home/travis/build/npmdoc/node-npmdoc-eslint-config-airbnb/tmp/build/\</tspan>
@@ -124,6 +124,6 @@
 <tspan x="10" y="1946">npmTest - 0 failed tests</tspan>
 <tspan x="10" y="1962"></tspan>
 <tspan x="10" y="1978"></tspan>
-<tspan x="10" y="1994">[MODE_BUILD=npmTest] - 2017-03-26T10:14:29Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="1994">[MODE_BUILD=npmTest] - 2017-03-26T11:06:24Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
