@@ -1,11 +1,13 @@
-# api documentation for  [eslint-config-airbnb (v14.1.0)](https://github.com/airbnb/javascript)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-config-airbnb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-config-airbnb)
+# api documentation for  [eslint-config-airbnb (v14.1.0)](https://github.com/airbnb/javascript)  [![npm package](https://img.shields.io/npm/v/npmdoc-eslint-config-airbnb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-eslint-config-airbnb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-config-airbnb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-config-airbnb)
 #### Airbnb's ESLint config, following our styleguide
 
 [![NPM](https://nodei.co/npm/eslint-config-airbnb.png?downloads=true)](https://www.npmjs.com/package/eslint-config-airbnb)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-eslint_config_airbnb_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-eslint-config-airbnb_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
