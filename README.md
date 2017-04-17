@@ -1,9 +1,11 @@
 # api documentation for  [eslint-config-airbnb (v14.1.0)](https://github.com/airbnb/javascript)  [![npm package](https://img.shields.io/npm/v/npmdoc-eslint-config-airbnb.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-eslint-config-airbnb) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-config-airbnb.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-config-airbnb)
 #### Airbnb's ESLint config, following our styleguide
 
-[![NPM](https://nodei.co/npm/eslint-config-airbnb.png?downloads=true)](https://www.npmjs.com/package/eslint-config-airbnb)
+[![NPM](https://nodei.co/npm/eslint-config-airbnb.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/eslint-config-airbnb)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-eslint-config-airbnb_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-eslint-config-airbnb/build/screenCapture.npmPackageListing.svg)
 
@@ -30,7 +32,6 @@
         },
         {
             "name": "Jordan Harband",
-            "email": "ljharb@gmail.com",
             "url": "http://ljharb.codes"
         },
         {
@@ -77,16 +78,13 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "airbnb",
-            "email": "jordan.harband+npm@airbnb.com"
+            "name": "airbnb"
         },
         {
-            "name": "jitl",
-            "email": "just.1.jake@gmail.com"
+            "name": "jitl"
         },
         {
-            "name": "ljharb",
-            "email": "ljharb@gmail.com"
+            "name": "ljharb"
         }
     ],
     "name": "eslint-config-airbnb",
@@ -97,7 +95,6 @@
         "eslint-plugin-import": "^2.2.0",
         "eslint-plugin-react": "^6.9.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/airbnb/javascript.git"
@@ -114,18 +111,6 @@
     "version": "14.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module eslint-config-airbnb](#apidoc.module.eslint-config-airbnb)
-1.  object <span class="apidocSignatureSpan">eslint-config-airbnb.</span>extends
-1.  object <span class="apidocSignatureSpan">eslint-config-airbnb.</span>rules
-
-
-
-# <a name="apidoc.module.eslint-config-airbnb"></a>[module eslint-config-airbnb](#apidoc.module.eslint-config-airbnb)
 
 
 
